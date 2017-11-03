@@ -11,7 +11,7 @@ sudo apt install -y git tree puppet
 
 cd /etc/puppet/modules
 
-sudo git clone https://github.com/JanneAl/sshfast
+sudo git clone https://github.com/JanneAl/sshd
 
 sudo puppet apply -e 'class{"sshd":}'
 
