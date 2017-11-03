@@ -4,6 +4,8 @@
 #lataa ssh nopeasti scriptillä
 
 #wget https://raw.githubusercontent.com/JanneAl/sshfastdownload/master/ssh.sh
+
+
 #bash ssh.sh
 
 
